@@ -6,4 +6,9 @@ int main(int argc, char* arg[])
 	char operator;
 
 	printf("please enter a expression");
+
+
+	printf("please enter a expression2");
+
+
 }
